@@ -1,17 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
-
-"""
-CSSE1001 Assignment 1
-Semester 2, 2020
-"""
-
 from a1_support import *
 
 # Fill these in with your details
-__author__ = "{{user.name}} ({{user.id}})"
+__author__ = "{{sunny})"
 __email__ = ""
 __date__ = ""
 
