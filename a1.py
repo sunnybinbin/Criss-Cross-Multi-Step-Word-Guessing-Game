@@ -3,11 +3,6 @@
 
 from a1_support import *
 
-# Fill these in with your details
-__author__ = "{{sunny})"
-__email__ = ""
-__date__ = ""
-
 
 def select_word_at_random(word_select: str)-> str:
     '''Given the word select is either "FIXED" or "ARBITRARY" this function will return a string randomly 
