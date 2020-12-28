@@ -1,0 +1,20 @@
+
+Welcome to the Criss-Cross Multi-Step Word Guessing Game!
+
+
+Enter an input action. Choices are:
+s - start game
+h - get help on game rules
+q - quit game: 
+h
+
+Game rules - You have to guess letters in place of the asterixis. 
+Each vowel guessed in the correct position gets 14 points. 
+Each consonant guessed in the correct position gets 12 points. 
+Each letter guessed correctly but in the wrong position gets 5 points. 
+If the true letters were "dog", say, and you guessed "hod", 
+you would score 14 points for guessing the vowel, "o", in the correct 
+position and 5 points for guessing "d" correctly, but in the 
+incorrect position. Your score would therefore be 19 points.
+
+Do you want a 'FIXED' or 'ARBITRARY' length word?: 
