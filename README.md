@@ -4,6 +4,7 @@ The goal of the game is for the player to guess that word through a series of gu
 * Each vowel guessed in the correct position gets 14 points.
 * Each consonant guessed in the correct position gets 12 points.
 * Each letter guessed correctly but in the wrong position gets 5 points.  
+
 Take a eight-letter word for example, after seven guesses, the user is required to give the final answer, and the program will tell WIN or LOSE.
 ## Usage
 Run a1.py to start playing.  
